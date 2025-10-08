@@ -1,2 +1,3 @@
-# nhammer-thesis-public
-Public thesis files
+# Public repository for thesis-related files
+
+For showcases of the thesis outcomes, see ./content.
