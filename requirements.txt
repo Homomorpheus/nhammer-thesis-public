@@ -123,7 +123,6 @@ pydantic==2.10.4
 pydantic_core==2.27.2
 pydata-sphinx-theme==0.16.1
 Pygments==2.18.0
-pyodide-build==0.29.2
 pyodide-cli==0.2.4
 pyodide-lock==0.1.0a7
 pyparsing==3.2.0
